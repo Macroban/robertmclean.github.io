@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Communication on RAMcLean Profile</title>
+		<link>http://localhost:1313/tags/communication/</link>
+		<description>Recent content in Communication on RAMcLean Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 13 Jun 2026 14:30:00 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Five Key Lessons in Communication</title>
+				<link>http://localhost:1313/blogs/five-key-lessons/</link>
+				<pubDate>Sat, 13 Jun 2026 14:30:00 -0400</pubDate>
+				<guid>http://localhost:1313/blogs/five-key-lessons/</guid>
+				<description>&lt;h1 id=&#34;five-key-lessons-in-communication-for-data-analytics&#34;&gt;Five Key Lessons in Communication for Data Analytics&lt;/h1&gt;&#xA;&lt;p&gt;In data analytics, communication is not a soft extra. It is central to the work. A data analyst may collect the data, clean it, analyze it, visualize it, and discover important patterns. But if those insights are not communicated clearly and meaningfully, much of the value can be lost. Data does not speak for itself. People interpret it, question it, and use it to make decisions. This means the role of the data analyst is not only to understand the numbers, but to help others understand what the numbers mean.&#xA;At this stage in my own learning and reflection, I am becoming more aware that professional communication requires more than speaking well or writing clearly. It requires awareness of the person receiving the message. It requires sensitivity to context, culture, tone, format, and even body language.&#xA;This is especially important in cross-cultural environments, where words, idioms, gestures, humour, silence, and tone may be understood differently. What feels clear to one person may feel abrupt to another. What sounds normal in one setting may be confusing, dismissive, or even disrespectful in another.&#xA;For a data analyst, communication is about more than reporting findings. It is about building understanding, trust, and wise decision-making. Here are five key lessons that matter deeply in data analytics.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
